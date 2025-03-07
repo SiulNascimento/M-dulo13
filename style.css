@@ -1,0 +1,15 @@
+.slide1 .carousel-caption {
+    color: rgb(250, 250, 250); 
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.carousel-inner img {
+
+    max-height: 869px;
+}
+
+.container {
+    margin-top: 32px;
+}
